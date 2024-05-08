@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysChallenge\\CollectionPrograms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42061E7D-BCE9-4316-B8D5-B4988FD75914}|ArrayListExample\\ArrayListExample.csproj|c:\\myfolders\\work\\consoleapplications\\100dayschallenge\\collectionprograms\\arraylistexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42061E7D-BCE9-4316-B8D5-B4988FD75914}|ArrayListExample\\ArrayListExample.csproj|solutionrelative:arraylistexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D68BA6-B17B-41D4-95FD-9BF722D7E71D}|GenericList\\GenericList.csproj|C:\\MyFolders\\Work\\ConsoleApplications\\100DaysChallenge\\CollectionPrograms\\genericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D68BA6-B17B-41D4-95FD-9BF722D7E71D}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6889516-FA61-4EE5-B0F7-51F443BEFF93}|HashCollection\\HashCollection.csproj|C:\\MyFolders\\Work\\ConsoleApplications\\100DaysChallenge\\CollectionPrograms\\hashcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6889516-FA61-4EE5-B0F7-51F443BEFF93}|HashCollection\\HashCollection.csproj|solutionrelative:hashcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysChallenge\\CollectionPrograms\\GenericList\\Program.cs",
+              "RelativeDocumentMoniker": "GenericList\\Program.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysChallenge\\CollectionPrograms\\GenericList\\Program.cs",
+              "RelativeToolTip": "GenericList\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:39:34.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysChallenge\\CollectionPrograms\\HashCollection\\Program.cs",
+              "RelativeDocumentMoniker": "HashCollection\\Program.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysChallenge\\CollectionPrograms\\HashCollection\\Program.cs",
+              "RelativeToolTip": "HashCollection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:59:58.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysChallenge\\CollectionPrograms\\ArrayListExample\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayListExample\\Program.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysChallenge\\CollectionPrograms\\ArrayListExample\\Program.cs",
+              "RelativeToolTip": "ArrayListExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:30:28.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
